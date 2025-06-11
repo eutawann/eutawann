@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGIyMzIyZ2ZuaXc3OW42YXVneHBoenRhemI1enFoYmFhOGx6YzZ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif"  />
+<img align="right" height="110" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGIyMzIyZ2ZuaXc3OW42YXVneHBoenRhemI1enFoYmFhOGx6YzZ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif"  />
 
 ###
 
@@ -60,6 +60,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eutawann/eutawann/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eutawann/eutawann/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eutawann/eutawann/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eutawann/eutawann/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

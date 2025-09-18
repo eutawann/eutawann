@@ -1,60 +1,154 @@
-<h1 align="center">Hello, I'm Steve Jobs 👋</h1>
+# 👨‍💻 Tawan Carvalho
 
-<p align="center">
-  <em>Apple founder • Visionary • Product Designer</em>
-</p>
+**`Desenvolvedor Back-end`**
 
-<p align=
+Me chamo Francisco Tawan de Sousa Carvalho, tenho 21 anos e sou natural do ``Ceará``. Atualmente, estou cursando Ciência da Computação (6/8) na Faculdade Católica da Paraíba. Sou fissurado em tecnologia e busco novas oportunidades de expandir o meu conhecimento e colaborar em equipes de desenvolvimento. Estou aberto a qualquer oportunidade.
 
-
-"center">
-  <img src="https://github.com/user-attachments/assets/e0bf4963-9498-425f-ae90-ad78a1757486
-" width="400px" alt="commit gif looping" />
-</p>
-
----
-
-<p align="center">
-  I'm passionate about elegant software, bold ideas, and changing the world through technology.  
-  Here you’ll find code, creativity, and a commitment to craft.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://fernandakipper.com/">
-    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-### 🧠 About Me
-
-- 🔭 Software Engineer at [NeXT](https://en.wikipedia.org/wiki/NeXT)
-- 🎓 Studied at Reed College (briefly)
-- ✨ Founder of [Apple](https://www.apple.com/)
-
----
-
-### 💻 Tech Stack Highlights
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+<p align="left">
+    <a href="https://github.com/eutawann?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/eutawann?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/eutawann?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/eutawann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/eutawancarvalho/">
+        <img 
+            alt="LinkedIn" 
+            title="Vamo trocar uma ideia?" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/eutawancarvalho/">
+        <img 
+            alt="Gmail" 
+            title="principalacc169@gmail.com" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### 🟩 Latest Commit Energy
+### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+/>
+
+
+<br/>
+<br/>
+
+### 📈 Estatísticas
+
+<img 
+    align="left" 
+    alt="Github Stats"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=eutawann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<img 
+    align="left" 
+    alt="Github Stats"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eutawann&theme=tokyonight&custom_title=Tecnologias" 
+/>
